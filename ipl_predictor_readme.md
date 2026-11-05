@@ -45,6 +45,7 @@ The **IPL Player Performance Predictor** is a Machine Learning web application b
 3. **Install the required dependencies:**
 
    ```bash
+   pip install -r requirements.txt
    conda install pandas numpy scikit-learn matplotlib seaborn jupyter -y
    pip install xgboost joblib streamlit
    ```

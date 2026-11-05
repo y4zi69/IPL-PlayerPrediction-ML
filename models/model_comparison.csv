@@ -1,0 +1,7 @@
+,MAE,RMSE,R2
+Linear Regression,10.039,12.647,0.5539
+Ridge Regression,10.04,12.649,0.5538
+XGBoost,10.37,13.22,0.5126
+Gradient Boosting,10.516,13.242,0.511
+Random Forest,11.108,14.068,0.448
+Decision Tree,12.755,16.152,0.2724
